@@ -1,0 +1,4 @@
+cd /jprofiler11/bin/
+
+
+sudo -u root ./jpenable -d *PID* -p 36544 -g (*PID* - это пид процесса, полученный на первом шаге)
